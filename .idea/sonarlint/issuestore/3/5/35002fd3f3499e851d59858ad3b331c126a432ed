@@ -1,0 +1,9 @@
+
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µ€ªÀ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Íó×ïÿÿÿÿÿ
+N
+java:S1128"8Remove this unused import 'java.security.MessageDigest'.(Œð²»
+^
+java:S1128"CRemove this unused import 'java.security.NoSuchAlgorithmException'.(ŒòÍ¾þÿÿÿÿ
